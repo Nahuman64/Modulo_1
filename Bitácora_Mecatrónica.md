@@ -24,10 +24,15 @@ Usar el control de rotores de gpredict. Está hecho para interactuar con servido
 Modelar una antena radial para los 22.116 MHz, luego armarla. Ir al techo a escuchar los aviones usando la antena y el rtlsdr1090
 
 Batido de ondas http://themys.sid.uncu.edu.ar/rpalma/Mecatronica/Batido%20de%20Ondas.zip
+
 Batido de ondas en SDR con down converter
+
 Seguimiento de aeronaves con https://www-rtl--sdr-com.translate.goog/a-detailed-guide-to-setting-up-rtl1090-for-ads-b-decoding/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
+
 Descarga de software https://www.jetvision.de/manuals/rtl1090.zip
+
 Monitoreo de frecuencas 7.050 MHz a 7.150 MHz y 28.400 MHz a 28500 MHz antena de hilo largo en el mástil
+
 Simulaciones en mmana-gal y presentación de 1er SPRINT
 
 Escuchamos en grupo frecuencias de aviones usando la antena dipolo. Armado de grupos y repartimiento de antenas. Montar una antena en el mastil de la bandera. Escuchamos diversas frecuencias de diferentes lugares.

@@ -16,3 +16,9 @@ Investigar como es que funciona el programa de computadora gpredict que dice la 
 Descargar una aplicación para el teléfono llamada Zello que permite hacer llamadas de voz, se puede conectar a los handies y transmitir por la radio. 
 Configurar la cámara para astrofotografía, investigar como se hace y sacar fotos.
 Intentar fotografiar la ISS con la cámara profesional.
+
+Un grupo intentó monitorear las frecuencias de la repetidora local en el cerro. Luego aprendieron a usar el software para sintonizar las frecuencias y lograron recibir y grabar algunos mensajes. Otro grupo se quedó viendo la presentación del profe y otro grupo intentó armar un servidor VPN para conectarse por ssh a la computadora, pero como no tenemos una IP pública hubo que usar un servicio externo.
+
+Usar el control de rotores de gpredict. Está hecho para interactuar con servidores de hamlib creados por el comando rotctld. Solo requiere que le indiquen en que dirección y puerto está el servidor. rotctld puede conectarse a rotores a través de TCP/IP o de puertos seriales. El aparato que controla realmente el rotor tiene que implementar alguno de los protocolos de comunicación especificados en la lista de rotctld.
+
+Escuchamos en grupo frecuencias de aviones usando la antena dipolo.

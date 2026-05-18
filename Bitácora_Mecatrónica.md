@@ -43,3 +43,11 @@ Finalizar puesta a punto SDR en PC Windows Sustituir RTLSDR Sharp por RTLSDR++ (
 Antena Magnetic Loop. Luego investigar sobre Xnec2c para simular antenas (sustituto de Mmana-Gal.
 
 Armar modelos de las antenas (Dipolo, Paragüa, Moxon, Cinta de Metro, Yagui, Random Wire, End feed half wave, End feed random wire) para la frecuencia a la que vamos a trabajar (144.400 MHz, la altura es a nivel del piso). 
+
+Usamos una antena de cable para escuchar frecuencias altas usando las condiciones de la ionosfera del atardecer. Se usó un circuito que le agregaba 150 kHz para poder convertir la señal a digital y así luego poder sacarle esta frecuencia agregada en la computadora.
+
+Se usó del programa Xnex2c: útil para la simulación y permite hacer estudios y gráficos. Luego hicimos pruebas con la antena "magnetic loop".
+
+Armado de una antena dipolo y puesta aprueba con el NanoVNA. 
+
+Armado de código en Arduino para recibir y responder a compandos de rotctld. Se usó el protocolo GS-232A.

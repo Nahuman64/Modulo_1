@@ -51,3 +51,5 @@ Se usó del programa Xnex2c: útil para la simulación y permite hacer estudios 
 Armado de una antena dipolo y puesta aprueba con el NanoVNA. 
 
 Armado de código en Arduino para recibir y responder a compandos de rotctld. Se usó el protocolo GS-232A.
+
+Comienzo de instalación ubuntu y SDR via web.
